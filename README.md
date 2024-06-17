@@ -1,6 +1,6 @@
 # rn-assignment4-11018835
 Project README
-This project consists of two React Native components: Home and LoginIn. Below is a detailed explanation of each component, their functionality, and the components used within them.
+This project consists of two React Native components: Home and Login. Below is a detailed explanation of each component, their functionality, and the components used within them.
 
 Home Component
 The Home component represents the main screen of a job listing application. It is structured as follows:
